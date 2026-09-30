@@ -70,8 +70,9 @@ The programme also asks for a hosted live demo, demo video, passing public CI ru
 | Public passing CI run | Available on GitHub Actions |
 | Approved proposal | [PROPOSAL.md](PROPOSAL.md) |
 | Product X profile | Not created |
-| Demo video | `sub images/record.mp4` |
+| Demo video | [Google Drive Demo Recording](https://drive.google.com/file/d/1n-PGiX6bxJa3yJJo49SvyTN4R5p-NJY-/view?usp=sharing) |
 | Compile / deployment / tests / UI screenshots | `sub images/ss1.png` - `ss4.png` |
+
 | Meaningful commit count | 91+ commits |
 
 
