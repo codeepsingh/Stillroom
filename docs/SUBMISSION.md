@@ -61,16 +61,17 @@ The programme also asks for a hosted live demo, demo video, passing public CI ru
 
 | Evidence | Actual value |
 | --- | --- |
-| Public repository | Not created |
-| Hosted application | Not published |
+| Public repository | [github.com/codeepsingh/Stillroom](https://github.com/codeepsingh/Stillroom) |
+| Hosted application | Netlify build pending |
 | Preview deployment (optional) | Not deployed |
-| Preprod contract address | Not deployed |
-| Successful circuit transaction | Not recorded |
-| Public passing CI run | Not available |
-| Approved proposal | Not submitted |
+| Preprod contract address | [1AM Explorer Deployment Tx](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod) |
+| Successful circuit transaction | [`1f3d2e01...`](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod) |
+| Public passing CI run | Available on GitHub Actions |
+| Approved proposal | [PROPOSAL.md](PROPOSAL.md) |
 | Product X profile | Not created |
-| Demo video | Not recorded |
-| Compile / deployment / tests / UI screenshots | Owner to capture |
-| Meaningful commit count | Owner-managed |
+| Demo video | `sub images/record.mp4` |
+| Compile / deployment / tests / UI screenshots | `sub images/ss1.png` - `ss4.png` |
+| Meaningful commit count | 91+ commits |
+
 
 Do not add secret recovery files, mnemonics or private witness values to the evidence directory.

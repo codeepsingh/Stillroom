@@ -158,11 +158,8 @@ The complete [requirements and evidence checklist](docs/SUBMISSION.md) distingui
 
 ### Public release record
 
-- **Live application:** not published.
-- **Preprod contract address:** not deployed.
-- **Verified transaction:** not recorded.
-- **Public CI run:** not available until repository setup.
-- **Product X profile:** not created.
-- **Proposal approval:** not submitted.
+- **Public repository:** [github.com/codeepsingh/Stillroom](https://github.com/codeepsingh/Stillroom)
+- **Preprod transaction:** [`1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a`](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod)
+- **Preprod contract deployment:** [1AM Explorer Deployment Transaction](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod)
+- **Verified status:** Confirmed on Midnight Preprod via 1AM wallet transaction flow.
 
-Replace these status lines with real evidence after release. There are intentionally no inherited URLs, synthetic badges, placeholder addresses, or claimed commits.
