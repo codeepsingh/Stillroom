@@ -8,6 +8,21 @@ The interface takes its cues from a botanical reading room: quiet green, conside
 
 > **Delivery status:** source and local verification belong to this project. A public deployment, successful wallet transaction, live CI run, approved proposal, product X profile, demo video, screenshots, and commit history must be supplied before claiming Level 1–4 completion. No inherited contract address or fabricated activity is included.
 
+## Interface & Application Screenshots
+
+The Stillroom dApp interface combines private zero-knowledge proving workflows with an organic botanical design language:
+
+| Access Desk & Landing | Privacy Gate Entry |
+| :---: | :---: |
+| ![Stillroom Landing & Hero](sub%20images/ss1.png) | ![Gate Access & Proof Entry](sub%20images/ss2.png) |
+| *Hero access desk with threshold status and live wallet connection* | *Private witness inputs, ZK proving progress, and gate status* |
+
+| On-Chain Observatory | Steward & Management Desk |
+| :---: | :---: |
+| ![On-Chain Observatory](sub%20images/ss3.png) | ![Steward Controls & Key Management](sub%20images/ss4.png) |
+| *Public ledger transparency, entry logs, and nullifier records* | *Steward recovery key generation, gate rotation, and administration* |
+
+
 ## Initial product idea
 
 Independent communities need a way to check access conditions without collecting another profile or database of personal information. Stillroom explores an eligibility gate where Midnight verifies a threshold over a private witness and publishes only the minimum gate configuration and an entry receipt. The current MVP demonstrates private threshold checking over self-attested scores; a production credential gate would additionally require trusted issuer attestations and a carefully designed membership/revocation system.
