@@ -1,6 +1,0 @@
-# Use the repository root as the Netlify base directory.
-# The authoritative build, routing and header settings are in ../netlify.toml.
-[build]
-  base = ".."
-  command = "npm run build"
-  publish = "dist"
