@@ -2,9 +2,12 @@
 
 **Let the proof in. Keep the person private.**
 
+🌐 **Live Application:** [https://stillroommid.netlify.app/](https://stillroommid.netlify.app/)
+
 Stillroom is a privacy-first access desk built on Midnight. A visitor proves that a private, self-supplied eligibility score meets a public threshold. The contract records a pass-scoped nullifier and increments an entry counter without publishing the score or the pass secret. A steward can open, close, or reconfigure the gate using a separate private recovery key.
 
 The interface takes its cues from a botanical reading room: quiet green, considered typography, local imagery, and a day/night theme. The landing page, access form, public register, privacy notes, steward controls, and browser deployment desk are one application—not a mock dashboard.
+
 
 > **Delivery status:** source and local verification belong to this project. A public deployment, successful wallet transaction, live CI run, approved proposal, product X profile, demo video, screenshots, and commit history must be supplied before claiming Level 1–4 completion. No inherited contract address or fabricated activity is included.
 
@@ -158,8 +161,10 @@ The complete [requirements and evidence checklist](docs/SUBMISSION.md) distingui
 
 ### Public release record
 
+- **Live application:** [https://stillroommid.netlify.app/](https://stillroommid.netlify.app/)
 - **Public repository:** [github.com/codeepsingh/Stillroom](https://github.com/codeepsingh/Stillroom)
 - **Preprod transaction:** [`1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a`](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod)
 - **Preprod contract deployment:** [1AM Explorer Deployment Transaction](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod)
 - **Verified status:** Confirmed on Midnight Preprod via 1AM wallet transaction flow.
+
 

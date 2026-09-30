@@ -62,8 +62,9 @@ The programme also asks for a hosted live demo, demo video, passing public CI ru
 | Evidence | Actual value |
 | --- | --- |
 | Public repository | [github.com/codeepsingh/Stillroom](https://github.com/codeepsingh/Stillroom) |
-| Hosted application | Netlify build pending |
+| Hosted application | [stillroommid.netlify.app](https://stillroommid.netlify.app/) |
 | Preview deployment (optional) | Not deployed |
+
 | Preprod contract address | [1AM Explorer Deployment Tx](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod) |
 | Successful circuit transaction | [`1f3d2e01...`](https://explorer.1am.xyz/tx/1f3d2e01e7400582e00e97267ec3fd1128d6d04974c727b5dbee3538723df12a?network=preprod) |
 | Public passing CI run | Available on GitHub Actions |
